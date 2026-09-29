@@ -1,0 +1,56 @@
+.container {
+  text-align: center;
+  margin-top: 80px;
+  font-family: Arial, sans-serif;
+}
+
+.login-box,
+.welcome-box {
+  width: 450px;
+  margin: auto;
+  padding: 30px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
+
+input {
+  display: block;
+  padding: 12px;
+  width: 80%;
+  margin: 10px auto;
+  box-sizing: border-box;
+}
+
+textarea {
+  width: 80%;
+  height: 100px;
+  padding: 10px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+button {
+  padding: 10px 18px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.post-section {
+  margin-top: 20px;
+}
+
+.post {
+  border: 1px solid #aaa;
+  border-radius: 8px;
+  padding: 15px;
+  margin: 15px 0;
+  background-color: #f5f5f5;
+}
+
+.post p {
+  font-size: 18px;
+}
+
+.admin-section {
+  margin-top: 20px;
+}
